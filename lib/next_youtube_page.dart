@@ -6,7 +6,7 @@ class NextYoutubePage extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         leading: Icon(Icons.video_call),
-        title: Text('HIITタイマー'),
+        title: Text('hehehe'),
         actions: <Widget>[
           SizedBox(
             width: 44,
